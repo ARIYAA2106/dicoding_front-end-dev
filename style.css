@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(238, 236, 136);
+}
+
+
+.container-gambar{
+    display: flex;
+    margin-left: 150px;
+    padding: auto;
+}
